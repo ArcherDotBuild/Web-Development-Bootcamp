@@ -11,3 +11,5 @@
 ### 04. HTML, CSS - Practice Summary [Days 9 - 10]
 
 ### 05. Serving A Website (Hosting, Deployment) [Day 11]
+
+### 06. Introducing Version Control with Git and GitHub
