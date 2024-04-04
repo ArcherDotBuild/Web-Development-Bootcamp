@@ -15,3 +15,5 @@
 ### 06. Introducing Version Control with Git and GitHub [Days 11 - 14]
 
 ### 07. Understanding HTML and CSS Layouts Positioning [Days 15 - 20]
+
+### 08. Understanding Responsive Web Design [Days 20 - 24]
