@@ -23,3 +23,5 @@
 ### 09. Creating Beautiful Websites [Days 24 - 25]
 
 ### 10. Adding Forms To Websites [Days 26 - 29]
+
+### 11. Understanding the JavaScript Basics [Days 29 - 33]
