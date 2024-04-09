@@ -27,3 +27,5 @@
 ### 11. Understanding the JavaScript Basics [Days 29 - 33]
 
 ### 12. Advanced JavaScript Working with the DOM [Days 33 - 37]
+
+### 13. Advanced JavaScript Control Structures [Days 37 - 39]
