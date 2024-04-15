@@ -39,3 +39,5 @@
 ### 17. NodeJS Introduction - Getting Started With Backend Development [Day 47]
 
 ### 18. Enhancing NodeJS with ExpressJS [Days 48 - 49]
+
+### 19. Major Project Design Modern UI UX Homepage of a Software Application
