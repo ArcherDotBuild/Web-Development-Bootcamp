@@ -43,3 +43,5 @@
 ### 19. Major Project Design Modern UI UX Homepage of a Software Application
 
 ### 20. Handling Dynamic Routes (URLs), Errors, Manag. Bigger Express Projects [Days 51 - 53]
+
+### 21. Exploring More Advanced JavaScript Concepts [Days 54 - 56]
