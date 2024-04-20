@@ -47,3 +47,5 @@
 ### 21. Exploring More Advanced JavaScript Concepts [Days 54 - 56]
 
 ### 22. Onwards To Databases [Days 56 - 57]
+
+### 23. SQL Databases - Introductio, Core Concepts [Days 57 - 59]
