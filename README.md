@@ -61,3 +61,5 @@
 ### 28. Ajax, Asynchronous JS-driven Http Requests [Days 68 - 70]
 
 ### 29. User Authentication, Working With Sessions [Days 70 - 73]
+
+### 30. Security [Days 74 - 75]
