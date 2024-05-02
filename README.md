@@ -63,3 +63,5 @@
 ### 29. User Authentication, Working With Sessions [Days 70 - 73]
 
 ### 30. Security [Days 74 - 75]
+
+### 31. Writing Good Code, Refactoring, The MVC Pattern [Days 75 - 78]
