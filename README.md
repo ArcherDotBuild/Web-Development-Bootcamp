@@ -73,3 +73,5 @@
 ### 34. Deploying (Publishing) Websites [Days 94 - 95]
 
 ### 35. Web Services, Building Custom (REST) APIs [Days 95 - 97]
+
+### 36. Working With Frontend JavaScript Frameworks, Introducing Vue.js [Days 98 - 99]
