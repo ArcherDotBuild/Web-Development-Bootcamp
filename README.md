@@ -16,9 +16,7 @@
 
 ### 07. Understanding HTML and CSS Layouts Positioning (Days 15 - 20)
 
-### 08. Understanding Responsive Web Design [Days 20 - 24]
-
-### 08. Understanding Responsive Web Design [Days 20 - 24]
+### 08. Understanding Responsive Web Design (Days 20 - 24)
 
 ### 09. Creating Beautiful Websites [Days 24 - 25]
 
