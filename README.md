@@ -2,6 +2,15 @@
 
 ## 100 Days Of Code
 
+10.138.0.2
+34.82.148.152
+
+34.82.148.152index.php
+12345
+blog-db - Public IP address - 35.247.39.99
+
+https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.png
+
 ### 01. Introduction (Day 1)
 
 ### 02. Building a First Website HTML, CSS Basics (Days 1 - 5)
@@ -28,7 +37,7 @@
 
 ### 13. Advanced JavaScript Control Structures (Days 37 - 39)
 
-### 14. Milestone Project Building a Tic-Tac-Toe Game [Days 40 - 44]
+### 14. Milestone Project Building a Tic-Tac-Toe Game (Days 40 - 44)
 
 ### 15. Working with Third-Party Packages [Days 45 - 46]
 
