@@ -41,7 +41,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 15. Working with Third-Party Packages (Days 45 - 46)
 
-### 16. Onwards To Backend Development [Day 46]
+### 16. Onwards To Backend Development (Day 46)
 
 ### 17. NodeJS Introduction - Getting Started With Backend Development [Day 47]
 
