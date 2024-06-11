@@ -51,7 +51,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 20. Handling Dynamic Routes (URLs), Errors, Manag. Bigger Express Projects (Days 51 - 53)
 
-### 21. Exploring More Advanced JavaScript Concepts [Days 54 - 56]
+### 21. Exploring More Advanced JavaScript Concepts (Days 54 - 56)
 
 ### 22. Onwards To Databases [Days 56 - 57]
 
