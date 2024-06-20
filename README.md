@@ -65,7 +65,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 27. Adding File Upload To A Website (Days 67 - 68)
 
-### 28. Ajax, Asynchronous JS-driven Http Requests [Days 68 - 70]
+### 28. Ajax, Asynchronous JS-driven Http Requests (Days 68 - 70)
 
 ### 29. User Authentication, Working With Sessions [Days 70 - 73]
 
