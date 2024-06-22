@@ -69,7 +69,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 29. User Authentication, Working With Sessions (Days 70 - 73)
 
-### 30. Security [Days 74 - 75]
+### 30. Security (Days 74 - 75)
 
 ### 31. Writing Good Code, Refactoring, The MVC Pattern [Days 75 - 78]
 
