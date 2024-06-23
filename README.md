@@ -73,7 +73,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 31. Writing Good Code, Refactoring, The MVC Pattern (Days 75 - 78)
 
-### 32. Milestone Project A Complete Online Shop (From A to Z!) [Days 78 - 92]
+### 32. Milestone Project A Complete Online Shop (From A to Z!) (Days 78 - 92)
 
 ### 33. Working With Services, APIs (e.g. Adding Stripe Payments) [Day 93]
 
