@@ -75,7 +75,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 32. Milestone Project A Complete Online Shop (From A to Z!) (Days 78 - 92)
 
-### 33. Working With Services, APIs (e.g. Adding Stripe Payments) [Day 93]
+### 33. Working With Services, APIs (e.g. Adding Stripe Payments) (Day 93)
 
 ### 34. Deploying (Publishing) Websites [Days 94 - 95]
 
