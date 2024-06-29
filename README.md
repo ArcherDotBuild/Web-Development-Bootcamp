@@ -83,4 +83,4 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 36. Working With Frontend JavaScript Frameworks, Introducing Vue.js (Days 98 - 99)
 
-### 37. Course Summary, Where To Go Next [Day 100]
+### 37. Course Summary, Where To Go Next (Day 100)
