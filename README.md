@@ -11,7 +11,7 @@ blog-db - Public IP address - 35.247.39.99
 
 https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.png
 
-### 01. Introduction (Day 1)
+### 01. Introduction [Day 1]
 
 ### 02. Building a First Website HTML, CSS Basics (Days 1 - 5)
 
