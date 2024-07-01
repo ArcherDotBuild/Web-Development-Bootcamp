@@ -15,7 +15,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 02. Building a First Website HTML, CSS Basics [Days 1 - 5]
 
-### 03. Diving Deeper Into HTML, CSS (Days 6 - 8)
+### 03. Diving Deeper Into HTML, CSS [Days 6 - 8]
 
 ### 04. HTML, CSS - Practice Summary (Days 9 - 10)
 
