@@ -19,7 +19,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 04. HTML, CSS - Practice Summary [Days 9 - 10]
 
-### 05. Serving A Website (Hosting, Deployment) (Day 11)
+### 05. Serving A Website (Hosting, Deployment) [Day 11]
 
 ### 06. Introducing Version Control with Git and GitHub Days (11 - 14)
 
