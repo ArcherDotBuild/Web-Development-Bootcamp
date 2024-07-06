@@ -21,7 +21,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 05. Serving A Website (Hosting, Deployment) [Day 11]
 
-### 06. Introducing Version Control with Git and GitHub Days (11 - 14)
+### 06. Introducing Version Control with Git and GitHub Days [11 - 14]
 
 ### 07. Understanding HTML and CSS Layouts Positioning (Days 15 - 20)
 
