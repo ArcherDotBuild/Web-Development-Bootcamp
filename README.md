@@ -27,7 +27,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 08. Understanding Responsive Web Design [Days 20 - 24]
 
-### 09. Creating Beautiful Websites (Days 24 - 25)
+### 09. Creating Beautiful Websites [Days 24 - 25]
 
 ### 10. Adding Forms To Websites (Days 26 - 29)
 
