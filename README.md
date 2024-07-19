@@ -35,7 +35,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 12. Advanced JavaScript Working with the DOM [Days 33 - 37]
 
-### 13. Advanced JavaScript Control Structures (Days 37 - 39)
+### 13. Advanced JavaScript Control Structures Days [37 - 39]
 
 ### 14. Milestone Project Building a Tic-Tac-Toe Game (Days 40 - 44)
 
