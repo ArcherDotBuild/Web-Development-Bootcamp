@@ -37,7 +37,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 13. Advanced JavaScript Control Structures Days [37 - 39]
 
-### 14. Milestone Project Building a Tic-Tac-Toe Game (Days 40 - 44)
+### 14. Milestone Project Building a Tic-Tac-Toe Game Days [40 - 44]
 
 ### 15. Working with Third-Party Packages (Days 45 - 46)
 
