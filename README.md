@@ -39,7 +39,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 14. Milestone Project Building a Tic-Tac-Toe Game Days [40 - 44]
 
-### 15. Working with Third-Party Packages (Days 45 - 46)
+### 15. Working with Third-Party Packages [Days 45 - 46]
 
 ### 16. Onwards To Backend Development (Day 46)
 
