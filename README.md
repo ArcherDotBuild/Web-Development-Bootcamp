@@ -45,7 +45,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 17. NodeJS Introduction - Getting Started With Backend Development [Day 47]
 
-### 18. Enhancing NodeJS with ExpressJS (Days 48 - 49)
+### 18. Enhancing NodeJS with ExpressJS [Days 48 - 49]
 
 ### 19. More Express Static, Dynamic Content with Templates (EJS) (Days 49 - 51)
 
