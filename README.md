@@ -47,7 +47,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 18. Enhancing NodeJS with ExpressJS [Days 48 - 49]
 
-### 19. More Express Static, Dynamic Content with Templates (EJS) (Days 49 - 51)
+### 19. More Express Static, Dynamic Content with Templates (EJS) Days [49 - 51]
 
 ### 20. Handling Dynamic Routes (URLs), Errors, Manag. Bigger Express Projects (Days 51 - 53)
 
