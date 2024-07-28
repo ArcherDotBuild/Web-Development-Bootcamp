@@ -49,7 +49,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 19. More Express Static, Dynamic Content with Templates (EJS) Days [49 - 51]
 
-### 20. Handling Dynamic Routes (URLs), Errors, Manag. Bigger Express Projects (Days 51 - 53)
+### 20. Handling Dynamic Routes (URLs), Errors, Manag. Bigger Express Projects Days [51 - 53]
 
 ### 21. Exploring More Advanced JavaScript Concepts (Days 54 - 56)
 
