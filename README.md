@@ -57,7 +57,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 23. SQL Databases - Introductio, Core Concepts [Days 57 - 59]
 
-### 24. Using MySQL In NodeJS, Express Websites (Days 60 - 62)
+### 24. Using MySQL In NodeJS, Express Websites [Days 60 - 62]
 
 ### 25. NoSQL, MongoDB - An Introduction (Days 63 - 64)
 
