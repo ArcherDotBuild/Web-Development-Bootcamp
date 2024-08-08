@@ -61,7 +61,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 25. NoSQL, MongoDB - An Introduction Days [63 - 64]
 
-### 26. NodeJS, MongoDB (NoSQL) (Days 65 - 67)
+### 26. NodeJS, MongoDB (NoSQL) [Days 65 - 67]
 
 ### 27. Adding File Upload To A Website (Days 67 - 68)
 
