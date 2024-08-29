@@ -77,7 +77,7 @@ https://storage.googleapis.com/qwiklabs-gcp-02-19823c2dc456/my-excellent-blog.pn
 
 ### 33. Working With Services, APIs (e.g. Adding Stripe Payments) (Day 93)
 
-### 34. Deploying (Publishing) Websites [Days 94 - 95]
+### 34. Deploying (Publishing) Websites (Days 94 - 95)
 
 ### 35. Web Services, Building Custom (REST) APIs [Days 95 - 97]
 
